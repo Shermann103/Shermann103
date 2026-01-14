@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 Future Systems Engineer 
 -----------------------
-Currently in my final Semester of an Eight-Semester Systems Engineering Program at Universidad Javeriana, deeply committed to learning and advancing professionally. Known among my peers for my dedication, attention to detail, and knack for brainstorming fresh ideas. Technology fascinates me, and I’m always eager to explore new tools and trends. My interests lie in both mobile and web development, and I’m enthusiastic about delving deeper into these areas.  
+Systems Engineering from Pontifica Universidad Javeriana, deeply committed to learning and advancing professionally. Known among my peers for my dedication, attention to detail, and knack for brainstorming fresh ideas. Technology fascinates me, and I’m always eager to explore new tools and trends. My interests lie in both mobile and web development, and I’m enthusiastic about delving deeper into these areas.  
 * 🌍  I'm based in Bogotá, Colombia 🇨🇴
 * ✉️  You can contact me at [hhermann103@gmail.com](mailto:hhermann103@gmail.com)
 * 🧠  I'm learning HTML, CSS, JavaScript
